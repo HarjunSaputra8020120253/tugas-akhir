@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ensklopedi_doa"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.ensklopedi_doa.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doasehari"
+            android:label="@string/title_activity_doasehari" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatidur"
+            android:label="@string/title_activity_doatidur" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doasholat"
+            android:label="@string/title_activity_doasholat" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doadzikir"
+            android:label="@string/title_activity_doadzikir" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doasuratpendek"
+            android:label="@string/title_activity_doasuratpendek" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Tentangensiklopedi"
+            android:label="@string/title_activity_tentangensiklopedi" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doabanguntidur"
+            android:label="@string/title_activity_doabanguntidur" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doamakan"
+            android:label="@string/title_activity_doamakan" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doasudahmakan"
+            android:label="@string/title_activity_doasudahmakan" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doabepergian"
+            android:label="@string/title_activity_doabepergian" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doapulang"
+            android:label="@string/title_activity_doapulang" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doakemasjid"
+            android:label="@string/title_activity_doakemasjid" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doaqunut"
+            android:label="@string/title_activity_doaqunut" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doasujud"
+            android:label="@string/title_activity_doasujud" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doasurat_annas"
+            android:label="@string/title_activity_doasurat_annas" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doasurat_alikhlas"
+            android:label="@string/title_activity_doasurat_alikhlas" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doasurat_alfatihah"
+            android:label="@string/title_activity_doasurat_alfatihah" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_dzikir"
+            android:label="@string/title_activity_doatampil_dzikir" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_tentang"
+            android:label="@string/title_activity_doatampil_tentang" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_tidur"
+            android:label="@string/title_activity_doatampil_tidur" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_bgntidur"
+            android:label="@string/title_activity_doatampil_bgntidur" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_makan"
+            android:label="@string/title_activity_doatampil_makan" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_sdhmkn"
+            android:label="@string/title_activity_doatampil_sdhmkn" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_bepergian"
+            android:label="@string/title_activity_doatampil_bepergian" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_pulang"
+            android:label="@string/title_activity_doatampil_pulang" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_kemasjid"
+            android:label="@string/title_activity_doatampil_kemasjid" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_qunut"
+            android:label="@string/title_activity_doatampil_qunut" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_sujud"
+            android:label="@string/title_activity_doatampil_sujud" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_annas"
+            android:label="@string/title_activity_doatampil_annas" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_alikhlas"
+            android:label="@string/title_activity_doatampil_alikhlas" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doatampil_alfatihah"
+            android:label="@string/title_activity_doatampil_alfatihah" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doa_Loading"
+            android:label="@string/title_activity_doa__loading" >
+        </activity>
+        <activity
+            android:name="com.example.ensklopedi_doa.Doa_loading"
+            android:label="@string/title_activity_doa_loading" >
+        </activity>
+    </application>
+
+</manifest>

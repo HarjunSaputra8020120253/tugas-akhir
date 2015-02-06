@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ensklopedi_Doa</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_doasehari">Doasehari</string>
+    <string name="title_activity_doatidur">Doatidur</string>
+    <string name="title_activity_doasholat">Doasholat</string>
+    <string name="title_activity_doadzikir">Doadzikir</string>
+    <string name="title_activity_doasuratpendek">Doasuratpendek</string>
+    <string name="title_activity_tentangensiklopedi">Tentangensiklopedi</string>
+    <string name="title_activity_doabanguntidur">Doabanguntidur</string>
+    <string name="title_activity_doamakan">Doamakan</string>
+    <string name="title_activity_doasudahmakan">Doasudahmakan</string>
+    <string name="title_activity_doabepergian">Doabepergian</string>
+    <string name="title_activity_doapulang">Doapulang</string>
+    <string name="title_activity_doakemasjid">Doakemasjid</string>
+    <string name="title_activity_doaqunut">Doaqunut</string>
+    <string name="title_activity_doasujud">Doasujud</string>
+    <string name="title_activity_doasurat_annas">Doasurat_annas</string>
+    <string name="title_activity_doasurat_alikhlas">Doasurat_alikhlas</string>
+    <string name="title_activity_doasurat_alfatihah">Doasurat_alfatihah</string>
+    <string name="title_activity_doatampil_dzikir">Doatampil_dzikir</string>
+    <string name="title_activity_doatampil_tentang">Doatampil_tentang</string>
+    <string name="title_activity_doatampil_tidur">Doatampil_tidur</string>
+    <string name="title_activity_doatampil_bgntidur">Doatampil_bgntidur</string>
+    <string name="title_activity_doatampil_makan">Doatampil_makan</string>
+    <string name="title_activity_doatampil_sdhmkn">Doatampil_sdhmkn</string>
+    <string name="title_activity_doatampil_bepergian">Doatampil_bepergian</string>
+    <string name="title_activity_doatampil_pulang">Doatampil_pulang</string>
+    <string name="title_activity_doatampil_kemasjid">Doatampil_kemasjid</string>
+    <string name="title_activity_doatampil_qunut">Doatampil_qunut</string>
+    <string name="title_activity_doatampil_sujud">Doatampil_sujud</string>
+    <string name="title_activity_doatampil_annas">Doatampil_annas</string>
+    <string name="title_activity_doatampil_alikhlas">Doatampil_alikhlas</string>
+    <string name="title_activity_doatampil_alfatihah">Doatampil_alfatihah</string>
+    <string name="title_activity_doa__loading">Doa_Loading</string>
+    <string name="title_activity_doa_loading">Doa_loading</string>
+
+</resources>
